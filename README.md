@@ -71,7 +71,11 @@ Si deseas generar el archivo instalable final para Android (APK), usa uno de los
 
 ## Capturas de pantalla
 
+### Captura del Sistema
+
 ![Captura del Sistema](images/Captura1.png)
+
+### Captura de Google Maps
 
 ![Captura de Google Maps](images/Captura2.png)
 
