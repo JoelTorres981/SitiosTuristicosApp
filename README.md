@@ -1,4 +1,4 @@
-# 🇪🇨 Sitios Turísticos App
+# Sitios Turísticos
 
 Una aplicación móvil interactiva desarrollada en **Flutter** que funciona como una guía interactiva de los principales atractivos turísticos de Ecuador (Quito, Guayaquil, Cuenca y las Islas Galápagos).
 
